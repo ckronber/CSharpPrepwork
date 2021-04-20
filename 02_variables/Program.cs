@@ -9,6 +9,13 @@ namespace _02_variables
             //1     //2         //3
             string firstName = "Paul";
             Console.WriteLine(firstName);
+            //1     //2
+            string lastName = "Johnson";
+
+            int birthYear;
+                            //3
+            Console.WriteLine(lastName)
+            
             Console.ReadLine();
         }
     }
