@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_conditionals_if_else", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_conditionals_ternary_expressions", "07_conditionals_ternary_expressions\07_conditionals_ternary_expressions.csproj", "{C33A8BB6-353C-4512-8F49-5FC676D3314A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_numbers", "08_numbers\08_numbers.csproj", "{E630D457-F82A-43F7-80DF-847438699340}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C33A8BB6-353C-4512-8F49-5FC676D3314A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C33A8BB6-353C-4512-8F49-5FC676D3314A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C33A8BB6-353C-4512-8F49-5FC676D3314A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E630D457-F82A-43F7-80DF-847438699340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E630D457-F82A-43F7-80DF-847438699340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E630D457-F82A-43F7-80DF-847438699340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E630D457-F82A-43F7-80DF-847438699340}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
