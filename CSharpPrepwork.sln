@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Strings", "05_Strings\05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_booleans", "06_booleans\06_booleans.csproj", "{D15E0CBA-32D2-4462-8510-A6094FC99EF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_boolean_challenges", "06_boolean_challenges\06_boolean_challenges.csproj", "{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D15E0CBA-32D2-4462-8510-A6094FC99EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15E0CBA-32D2-4462-8510-A6094FC99EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15E0CBA-32D2-4462-8510-A6094FC99EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
