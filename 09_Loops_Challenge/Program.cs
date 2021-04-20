@@ -11,7 +11,7 @@ namespace _09_Loops_Challenge
                 Console.WriteLine(i);
 
             //Silver
-            for (int i = 1; i < 101; i++)
+            for (int i = 1; i < 101; i+=5)
                 Console.WriteLine(i);
 
             //Gold
