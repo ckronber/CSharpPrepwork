@@ -12,7 +12,7 @@ namespace _02_variables
             //1     //2
             string lastName = "Johnson";
 
-            int birthYear;
+            int birthYear = 1990;
                             //3
             Console.WriteLine(lastName)
             
