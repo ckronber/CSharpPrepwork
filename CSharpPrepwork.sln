@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_booleans", "06_booleans\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_boolean_challenges", "06_boolean_challenges\06_boolean_challenges.csproj", "{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_conditonals_switch", "07_conditonals_switch\07_conditonals_switch.csproj", "{2BE97D43-A123-4692-9BC9-B335AD641E6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67CD9B3A-F63E-4CDB-8028-5F3D81C813A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE97D43-A123-4692-9BC9-B335AD641E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE97D43-A123-4692-9BC9-B335AD641E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE97D43-A123-4692-9BC9-B335AD641E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE97D43-A123-4692-9BC9-B335AD641E6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
