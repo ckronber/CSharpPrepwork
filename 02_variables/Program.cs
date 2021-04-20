@@ -13,8 +13,8 @@ namespace _02_variables
             string lastName = "Johnson";
 
             int birthYear = 1990;
-                            //3
-            Console.WriteLine(lastName)
+            //3
+            Console.WriteLine(lastName);
             
             Console.ReadLine();
         }
