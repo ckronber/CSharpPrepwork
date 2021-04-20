@@ -23,6 +23,11 @@ namespace _03_Types_Challenges
             string fullName = name1 + ", " + name2;
             Console.WriteLine(fullName);
 
+            //Gold
+            int year = 1987;
+            string yr = year.ToString();
+
+            Console.WriteLine(yr);
 
             Console.ReadLine();
         }
