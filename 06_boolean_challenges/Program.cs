@@ -20,21 +20,25 @@ namespace _06_boolean_challenges
 
             //Gold
             int randVal = 29;
-            Console.WriteLine("Pick a number between 1 and 100: ");
-            int userVal = Convert.ToInt32(Console.ReadLine());
+            int userVal;
+            do
+            {
+                Console.WriteLine("Pick a number between 1 and 100: ");
+                userVal = Convert.ToInt32(Console.ReadLine());
 
-            if(userVal == randVal)
-            {
-                Console.WriteLine("Nice Job! You guessed correctly.");
-            }
-            else if(userVal > randVal)
-            {
-                Console.WriteLine("Choose a lower number.");
-            }
-            else
-            {
-                Console.WriteLine("Choose a higher number.");
-            }
+                if (userVal == randVal)
+                {
+                    Console.WriteLine("Nice Job! You guessed correctly.");
+                }
+                else if (userVal > randVal)
+                {
+                    Console.WriteLine("Choose a lower number.");
+                }
+                else
+                {
+                    Console.WriteLine("Choose a higher number.");
+                }
+            } while (userVal != randVal);
 
             Console.ReadLine();
 
