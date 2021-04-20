@@ -23,6 +23,8 @@ namespace _09_Loops_Challenge
                     Console.WriteLine("Fizz");
                 else if (i % 5 == 0)
                     Console.WriteLine("Buzz");
+                else
+                    Console.WriteLine(i);
              }
         }
 
